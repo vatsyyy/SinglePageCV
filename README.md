@@ -24,7 +24,7 @@ Styling (CSS) and design will be addressed in future projects.
 
 ## Project Structure
 
-SINGLE_PAGE_CV/
+SinglePageCV/
 |
 
 ├─ index.html  # Main CV page
@@ -39,10 +39,16 @@ SINGLE_PAGE_CV/
 
 ```bash
 git clone https://github.com/vatsyyy/SinglePageCV.git
-cd SINGLE_PAGE_CV/
+cd SinglePageCV/
 ```
 
 ### 2. Open `index.html` in any modern web browser
 
 Chrome, Firefox, Edge, or Safari
 Simply double-click the file or drag it into a browser window
+
+---
+
+## Project URL
+
+<https://github.com/vatsyyy/SinglePageCV>

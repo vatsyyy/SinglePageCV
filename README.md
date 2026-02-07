@@ -49,6 +49,6 @@ Simply double-click the file or drag it into a browser window
 
 ---
 
-## Project URL
+## Project URL from ROADMAP.SH
 
-<https://vatsyyy.github.io/SinglePageCV/>
+<https://roadmap.sh/projects/single-page-cv>

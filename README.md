@@ -51,4 +51,4 @@ Simply double-click the file or drag it into a browser window
 
 ## Project URL
 
-https://github.com/vatsyyy/SinglePageCV
+<https://vatsyyy.github.io/SinglePageCV/>

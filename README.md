@@ -38,7 +38,7 @@ SINGLE_PAGE_CV/
 ### 1. Clone or download this repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vatsyyy/SinglePageCV.git
 cd SINGLE_PAGE_CV/
 ```
 
